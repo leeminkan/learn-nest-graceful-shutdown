@@ -1,4 +1,6 @@
-That's a great question! Graceful shutdown is especially important for background jobs to prevent data loss, ensure consistency, and clean up resources properly. Let's illustrate this with a real-world use case in NestJS: **A Background Email Sending Job**.
+Graceful shutdown is especially important for background jobs to prevent data loss, ensure consistency, and clean up resources properly.
+
+Let's illustrate this with a real-world use case in NestJS: **A Background Email Sending Job**.
 
 ## Real Use Case: Graceful Shutdown for a NestJS Background Email Job
 
